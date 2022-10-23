@@ -29,3 +29,6 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/347ff5tfm7v7faav?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-5-1)
+
+https://nikitakurys.github.io/AHJ-5.1/
